@@ -1,2 +1,8 @@
-h2{background-color: rgb(54, 53, 53);
-color: white;}
+header{background-color: rgba(8, 7, 7, 0.393);}
+p{text-align: center;}
+body{background:linear-gradient(rgb(46, 152, 197) ,rgb(88, 209, 177));
+width: 49%;
+align-items: center;
+border-style:;
+border-radius: 70;
+}
